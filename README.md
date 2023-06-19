@@ -1,2 +1,27 @@
 # .NET-Remoting-course-work
 Курсовая работа по дисциплине "Технологии программирования" с использованием .Net Remoting
+
+Как запустить? Сначала запуск без отладки для сервера, затем для клиента
+
+Есть два типа пользователей: обычный пользователь и админ, который может изменять пункты выдачи, товары и наличие товаров. Есть два канала: HTTP и TCP. Была добавлена криптографическая защита
+
+Регистрация и вход
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/899c61f0-b225-477b-87f9-1693ccdd522a)
+
+Каталог и покупка
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/1de5eecf-79b6-4357-8bd7-92150ee1f332)
+
+Профиль
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/e4b7c6e0-a133-4637-ac3b-903b2ffdd0aa)
+
+Информация о заказе
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/4ac9359e-78b4-4fa4-8af3-860b60c77b66)
+
+Изменение наличия товаров
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/20760d2c-d297-43c4-8d69-2c3b234c9e80)
+
+Товаров
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/9a2305be-04a6-4d2c-ab58-036a43930967)
+
+Пунктов выдачи
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/6442a2f1-5ff7-4846-81a1-1bf1ea55718a)
