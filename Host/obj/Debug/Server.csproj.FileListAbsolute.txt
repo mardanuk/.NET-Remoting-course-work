@@ -1,0 +1,16 @@
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\Server.config
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\Host.exe.config
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\Host.exe
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\Host.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\RemoteSharedHTTP.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\SharedTCP.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\DataBase.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\RemoteSharedHTTP.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\SharedTCP.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\bin\Debug\DataBase.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\obj\Debug\Server.csproj.CopyComplete
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\obj\Debug\Host.exe
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\Host\obj\Debug\Host.pdb

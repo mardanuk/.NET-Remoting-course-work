@@ -1,0 +1,12 @@
+D:\Visual Studio_projects\DB\DataBase\bin\Debug\DataBase.dll
+D:\Visual Studio_projects\DB\DataBase\bin\Debug\DataBase.pdb
+D:\Visual Studio_projects\DB\DataBase\obj\Debug\DataBaseMethods.csproj.AssemblyReference.cache
+D:\Visual Studio_projects\DB\DataBase\obj\Debug\DataBaseMethods.csproj.CoreCompileInputs.cache
+D:\Visual Studio_projects\DB\DataBase\obj\Debug\DataBase.dll
+D:\Visual Studio_projects\DB\DataBase\obj\Debug\DataBase.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DataBase\bin\Debug\DataBase.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DataBase\bin\Debug\DataBase.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DataBase\obj\Debug\DataBaseMethods.csproj.AssemblyReference.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DataBase\obj\Debug\DataBaseMethods.csproj.CoreCompileInputs.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DataBase\obj\Debug\DataBase.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DataBase\obj\Debug\DataBase.pdb

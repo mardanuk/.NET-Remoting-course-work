@@ -1,0 +1,29 @@
+D:\Visual Studio_projects\DB\RemoteSharedHTTP\bin\Debug\RemoteSharedHTTP.dll
+D:\Visual Studio_projects\DB\RemoteSharedHTTP\bin\Debug\RemoteSharedHTTP.pdb
+D:\Visual Studio_projects\DB\RemoteSharedHTTP\bin\Debug\DataBase.dll
+D:\Visual Studio_projects\DB\RemoteSharedHTTP\bin\Debug\DataBase.pdb
+D:\Visual Studio_projects\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.csproj.AssemblyReference.cache
+D:\Visual Studio_projects\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.csproj.CoreCompileInputs.cache
+D:\Visual Studio_projects\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.csproj.CopyComplete
+D:\Visual Studio_projects\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.dll
+D:\Visual Studio_projects\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.pdb
+D:\Visual Studio_projects\Course work\DB\RemoteSharedHTTP\bin\Debug\RemoteSharedHTTP.dll
+D:\Visual Studio_projects\Course work\DB\RemoteSharedHTTP\bin\Debug\RemoteSharedHTTP.pdb
+D:\Visual Studio_projects\Course work\DB\RemoteSharedHTTP\bin\Debug\DataBase.dll
+D:\Visual Studio_projects\Course work\DB\RemoteSharedHTTP\bin\Debug\DataBase.pdb
+D:\Visual Studio_projects\Course work\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.csproj.AssemblyReference.cache
+D:\Visual Studio_projects\Course work\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.csproj.CoreCompileInputs.cache
+D:\Visual Studio_projects\Course work\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.csproj.CopyComplete
+D:\Visual Studio_projects\Course work\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.dll
+D:\Visual Studio_projects\Course work\DB\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\bin\Debug\RemoteSharedHTTP.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\bin\Debug\RemoteSharedHTTP.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\bin\Debug\DataBase.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\bin\Debug\DataBase.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.csproj.AssemblyReference.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.csproj.CoreCompileInputs.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.csproj.CopyComplete
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\obj\Debug\RemoteSharedHTTP.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\bin\Debug\SharedTCP.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\RemoteSharedHTTP\bin\Debug\SharedTCP.pdb

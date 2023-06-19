@@ -1,0 +1,78 @@
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\DB_project.exe.config
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\DB_project.exe
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\DB_project.pdb
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.csproj.AssemblyReference.cache
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.Authorization.resources
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.Properties.Resources.resources
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.csproj.GenerateResource.cache
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.csproj.CoreCompileInputs.cache
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.exe
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.pdb
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.Registration.resources
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.MainForm.resources
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.Forms.ResultService.resources
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.Forms.ResultAppointment.resources
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.Forms.NewAppointment.resources
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.Forms.CorrectProfile.resources
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.Forms.ResultSchedule.resources
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.csproj.CopyComplete
+D:\Visual Studio_projects\DB\DB_project\obj\Debug\DB_project.ProfileForm.resources
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\RemoteSharedHTTP.dll
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\SharedTCP.dll
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\DataBase.dll
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\RemoteSharedHTTP.pdb
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\SharedTCP.pdb
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\DataBase.pdb
+D:\Visual Studio_projects\DB\DB_project\bin\Debug\Client.config
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\Client.config
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\DB_project.exe.config
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\DB_project.exe
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\DB_project.pdb
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\RemoteSharedHTTP.dll
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\SharedTCP.dll
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\DataBase.dll
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\RemoteSharedHTTP.pdb
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\SharedTCP.pdb
+D:\Visual Studio_projects\Course work\DB\DB_project\bin\Debug\DataBase.pdb
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.csproj.AssemblyReference.cache
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.Authorization.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.Forms.CorrectProfile.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.MainForm.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.Forms.NewAppointment.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.ProfileForm.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.Forms.ResultAppointment.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.Forms.ResultSchedule.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.Forms.ResultService.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.Properties.Resources.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.Registration.resources
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.csproj.GenerateResource.cache
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.csproj.CoreCompileInputs.cache
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.csproj.CopyComplete
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.exe
+D:\Visual Studio_projects\Course work\DB\DB_project\obj\Debug\DB_project.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\Client.config
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\DB_project.exe.config
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\DB_project.exe
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\DB_project.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\RemoteSharedHTTP.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\SharedTCP.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\DataBase.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\RemoteSharedHTTP.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\SharedTCP.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\bin\Debug\DataBase.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.csproj.AssemblyReference.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.Properties.Resources.resources
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.csproj.GenerateResource.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.csproj.CoreCompileInputs.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.csproj.CopyComplete
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.exe
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.Forms.MainForm.resources
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.Profile.resources
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.Forms.AdminPanel.resources
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.OrderInfo.resources
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.Auth.resources
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\DB_project\obj\Debug\DB_project.Forms.EditAvailibilty.resources

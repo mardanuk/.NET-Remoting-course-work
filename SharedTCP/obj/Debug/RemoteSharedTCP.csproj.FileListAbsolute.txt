@@ -1,0 +1,27 @@
+D:\Visual Studio_projects\DB\SharedTCP\bin\Debug\SharedTCP.dll
+D:\Visual Studio_projects\DB\SharedTCP\bin\Debug\SharedTCP.pdb
+D:\Visual Studio_projects\DB\SharedTCP\bin\Debug\DataBase.dll
+D:\Visual Studio_projects\DB\SharedTCP\bin\Debug\DataBase.pdb
+D:\Visual Studio_projects\DB\SharedTCP\obj\Debug\RemoteSharedTCP.csproj.AssemblyReference.cache
+D:\Visual Studio_projects\DB\SharedTCP\obj\Debug\RemoteSharedTCP.csproj.CoreCompileInputs.cache
+D:\Visual Studio_projects\DB\SharedTCP\obj\Debug\RemoteSharedTCP.csproj.CopyComplete
+D:\Visual Studio_projects\DB\SharedTCP\obj\Debug\SharedTCP.dll
+D:\Visual Studio_projects\DB\SharedTCP\obj\Debug\SharedTCP.pdb
+D:\Visual Studio_projects\Course work\DB\SharedTCP\bin\Debug\SharedTCP.dll
+D:\Visual Studio_projects\Course work\DB\SharedTCP\bin\Debug\SharedTCP.pdb
+D:\Visual Studio_projects\Course work\DB\SharedTCP\bin\Debug\DataBase.dll
+D:\Visual Studio_projects\Course work\DB\SharedTCP\bin\Debug\DataBase.pdb
+D:\Visual Studio_projects\Course work\DB\SharedTCP\obj\Debug\RemoteSharedTCP.csproj.AssemblyReference.cache
+D:\Visual Studio_projects\Course work\DB\SharedTCP\obj\Debug\RemoteSharedTCP.csproj.CoreCompileInputs.cache
+D:\Visual Studio_projects\Course work\DB\SharedTCP\obj\Debug\RemoteSharedTCP.csproj.CopyComplete
+D:\Visual Studio_projects\Course work\DB\SharedTCP\obj\Debug\SharedTCP.dll
+D:\Visual Studio_projects\Course work\DB\SharedTCP\obj\Debug\SharedTCP.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\SharedTCP\bin\Debug\SharedTCP.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\SharedTCP\bin\Debug\SharedTCP.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\SharedTCP\bin\Debug\DataBase.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\SharedTCP\bin\Debug\DataBase.pdb
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\SharedTCP\obj\Debug\RemoteSharedTCP.csproj.AssemblyReference.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\SharedTCP\obj\Debug\RemoteSharedTCP.csproj.CoreCompileInputs.cache
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\SharedTCP\obj\Debug\RemoteSharedTCP.csproj.CopyComplete
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\SharedTCP\obj\Debug\SharedTCP.dll
+C:\Users\madin\OneDrive\Рабочий стол\учоба\КАИ\6 семестр 3 курс\SharedTCP\obj\Debug\SharedTCP.pdb

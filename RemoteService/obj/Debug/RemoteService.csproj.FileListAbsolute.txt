@@ -1,0 +1,6 @@
+D:\Visual Studio_projects\DB\RemoteService\bin\Debug\RemoteService.dll
+D:\Visual Studio_projects\DB\RemoteService\bin\Debug\RemoteService.pdb
+D:\Visual Studio_projects\DB\RemoteService\obj\Debug\RemoteService.csproj.AssemblyReference.cache
+D:\Visual Studio_projects\DB\RemoteService\obj\Debug\RemoteService.csproj.CoreCompileInputs.cache
+D:\Visual Studio_projects\DB\RemoteService\obj\Debug\RemoteService.dll
+D:\Visual Studio_projects\DB\RemoteService\obj\Debug\RemoteService.pdb
