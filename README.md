@@ -16,7 +16,7 @@
 
 Профиль
 
-![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/e4b7c6e0-a133-4637-ac3b-903b2ffdd0aa)
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/2da89bf1-40ef-4137-a83d-f152354c12c9)
 
 Информация о заказе
 
