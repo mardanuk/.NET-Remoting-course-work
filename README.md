@@ -9,26 +9,25 @@
 
 ![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/aadbf45f-9940-41c9-9f8f-ce9a111b9216)
 
-
 Каталог и покупка
-
-![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/1de5eecf-79b6-4357-8bd7-92150ee1f332)
-
-Профиль
 
 ![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/2da89bf1-40ef-4137-a83d-f152354c12c9)
 
+Профиль
+
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/1e31cfdb-8c4d-4eb1-9931-080a6f368396)
+
 Информация о заказе
 
-![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/4ac9359e-78b4-4fa4-8af3-860b60c77b66)
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/9a29c8b6-092a-43f8-8c77-bb339b063012)
 
 Изменение наличия товаров
 
-![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/20760d2c-d297-43c4-8d69-2c3b234c9e80)
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/fb1fb5e7-306c-4c16-848b-38ba3546dd4f)
 
 Изменение товаров
 
-![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/9a2305be-04a6-4d2c-ab58-036a43930967)
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/b6156ad4-612e-461a-b7b4-8e1c82834dfd)
 
 Изменение пунктов выдачи
-![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/6442a2f1-5ff7-4846-81a1-1bf1ea55718a)
+![image](https://github.com/MadinaZaynullina/.NET-Remoting-course-work/assets/73058803/df93c178-caa4-4dd8-bc3c-0d4db910df31)
